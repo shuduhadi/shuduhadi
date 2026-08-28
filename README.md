@@ -104,7 +104,7 @@ I'm interested in more than writing code — I want to understand the **systems,
 
 [![GitHub](https://img.shields.io/badge/GitHub-shuduhadi-181717?style=for-the-badge&logo=github)](https://github.com/shuduhadi)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shudu-hadi-52b3913a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shudu-hadi)
 
 ---
 
