@@ -98,15 +98,6 @@ I'm interested in more than writing code — I want to understand the **systems,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuduhadi&show_icons=true&theme=radical" alt="Shudu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuduhadi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 📍 **South Africa**
