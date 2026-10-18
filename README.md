@@ -74,18 +74,6 @@ A web application combining AI with pantry management, grocery lists, and meal p
 
 ---
 
-## 🧑‍💻 Skills Sharpened at WeThinkCode_
-
-Through coursework and team-based technical projects, including a **multiplayer Java TCP client-server game built with a peer team**, I've developed hands-on experience in:
-
-- **Client-server architecture** — designing and debugging JSON-over-TCP communication between distributed components
-- **Test-driven development** — writing JUnit black-box acceptance tests and resolving coordinate and logic mismatches between specification and implementation
-- **Java desktop GUIs** — building JavaFX interfaces from scratch and connecting UI actions to backend command handlers
-- **Version control & team workflows** — GitLab backlog planning and resolving Maven package restructuring conflicts across a team codebase
-- **Debugging distributed systems** — tracing bugs across layered components such as handlers, models, and response builders in a multi-class codebase
-
----
-
 ## 🌱 Currently Learning
 
 [![Software Engineering](https://img.shields.io/badge/Software%20Engineering-181717?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Software_engineering)
