@@ -22,15 +22,20 @@ I'm passionate about **software engineering, Linux, cybersecurity, automation, a
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
 ### 🛠️ Systems & Tools
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuduhadi)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
+[![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjfx.io/)
 
 ### 🎨 Design & Collaboration
 
@@ -41,6 +46,7 @@ I'm passionate about **software engineering, Linux, cybersecurity, automation, a
 ### 🔗 APIs & Automation
 
 [![APIs](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Introduction)
+[![Javalin](https://img.shields.io/badge/Javalin-0B5FA5?style=for-the-badge&logo=openjdk&logoColor=white)](https://javalin.io/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 
 ### 🔐 Cybersecurity
@@ -48,6 +54,7 @@ I'm passionate about **software engineering, Linux, cybersecurity, automation, a
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-222222?style=for-the-badge&logo=linux&logoColor=white)](https://www.openwall.com/john/)
 [![Hashcat](https://img.shields.io/badge/Hashcat-FF6F00?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 
 ---
 
@@ -104,7 +111,7 @@ I'm interested in more than writing code — I want to understand the **systems,
 
 [![GitHub](https://img.shields.io/badge/GitHub-shuduhadi-181717?style=for-the-badge&logo=github)](https://github.com/shuduhadi)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shudu-hadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shudu-hadi-52b3913a4/)
 
 ---
 
